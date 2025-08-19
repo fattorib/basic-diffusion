@@ -1,4 +1,4 @@
-# DDPM and iDDPM
+# basic diffusion
 
 A minimal (and feature complete) implementation of the CIFAR10 models, heavily based off of [DDPM](https://arxiv.org/abs/2006.11239) and [iDDPM](https://arxiv.org/abs/2102.09672).
 
@@ -12,7 +12,7 @@ Includes:
 ## Installation
 
 ```bash
-git clone *repo-url*
+git clone https://github.com/fattorib/basic-diffusion.git
 cd basic-diffusion
 pip install -r requirements.txt
 ```
