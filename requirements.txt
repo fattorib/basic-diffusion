@@ -1,0 +1,8 @@
+torch~=2.7.1
+tqdm==4.67.1
+wandb==0.16.6
+einops==0.7.0
+torchvision==0.22.1
+ruff==0.9.3
+pyright==1.1.378
+triton==3.3.1
